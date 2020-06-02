@@ -1,3 +1,4 @@
+This is a Fork of TimotheeChauvin/NNDL-solutions where i added solutions for Chapter 3 Problem 9.
 # NNDL-solutions
 
 > Solutions (math and code) of the exercises and problems from Michael Nielsen's book [*Neural Networks And Deep Learning*](http://neuralnetworksanddeeplearning.com/) (and adaptations to the code for Python 3 and Theano 1.0.3).
